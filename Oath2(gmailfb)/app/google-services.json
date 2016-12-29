@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "33727807387",
+    "project_id": "oauth-cf900"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33727807387:android:7686177f740804b8",
+        "android_client_info": {
+          "package_name": "nityamshrestha.com.oath2gmailfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33727807387-jaif7lj1qhd6q1otruj8jm709j78g365.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nityamshrestha.com.oath2gmailfb",
+            "certificate_hash": "8AA821EF9EF4D9ADE452C319FE1A0DE2675D2F4B"
+          }
+        },
+        {
+          "client_id": "33727807387-6euansh4gjrues93576hrt526u1mtv0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYYr8UK2yXnGS_V4h0v-qC8IGEFC9gTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33727807387:android:afc4647e92b86c0b",
+        "android_client_info": {
+          "package_name": "com.nityamshrestha.oath2gmailfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33727807387-b404oefar18pml7eghe3ga5vi5do5792.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nityamshrestha.oath2gmailfb",
+            "certificate_hash": "8AA821EF9EF4D9ADE452C319FE1A0DE2675D2F4B"
+          }
+        },
+        {
+          "client_id": "33727807387-6euansh4gjrues93576hrt526u1mtv0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYYr8UK2yXnGS_V4h0v-qC8IGEFC9gTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33727807387:android:175061e833a96708",
+        "android_client_info": {
+          "package_name": "nityamshrestha.com.oath2gmailfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33727807387-9u1fqar9i84juv8sje4h6l201oh3i4um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nityamshrestha.com.oath2gmailfb",
+            "certificate_hash": "3CC4873D6A250F21506E8024CAAC4C189BD51FB4"
+          }
+        },
+        {
+          "client_id": "33727807387-6euansh4gjrues93576hrt526u1mtv0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYYr8UK2yXnGS_V4h0v-qC8IGEFC9gTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
