@@ -1,2 +1,2 @@
 # OathAndroidBasic
-Basic google authentication for android without FireBase
+Basic google SSO for android without FireBase connectivity.
